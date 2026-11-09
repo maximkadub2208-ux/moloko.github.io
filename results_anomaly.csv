@@ -1,0 +1,2 @@
+threshold,episodes,alerts,precision,recall,mean_delay_min
+0.3703551316292535,4,6,1.0,1.0,13.75
